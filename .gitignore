@@ -1,0 +1,6 @@
+.token
+output/
+settings.local.json
+node_modules/
+urls.txt
+.DS_Store
