@@ -1,0 +1,14 @@
+{
+  "name": "sp-jtscraper",
+  "version": "1.0.0",
+  "description": "Saucepan.ai batch companion extractor",
+  "main": "batch-extract.js",
+  "scripts": {
+    "start": "node batch-extract.js",
+    "help": "node batch-extract.js --help"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
